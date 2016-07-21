@@ -1,1 +1,2 @@
 sout("hello world");
+print("hello everybody");
